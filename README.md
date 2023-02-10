@@ -1,5 +1,5 @@
 # odin-recipes
-Building a basic recipes site from the Odin Project
+Building a basic recipes site
 
 # Technologies
 - VSCode
