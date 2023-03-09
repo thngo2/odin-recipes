@@ -14,3 +14,7 @@ The objective of this project is to use HTML to learn:
 - [x] How to use the alt attribute to describe images
 - [x] How to work with text (bold, paragraphs, headings, italicize)
 - [x] Parent directories 
+- [x] How to link an external CSS file to the HTML file
+- [x] Understanding basic CSS syntax
+- [x] How to CSS selectors work
+- [x] Working with CSS properties
