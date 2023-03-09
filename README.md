@@ -4,6 +4,7 @@ Building a basic recipes site
 # Technologies
 - VSCode
 - HTML
+- CSS
 
 # Objective
 The objective of this project is to use HTML to learn:
