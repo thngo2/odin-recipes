@@ -7,7 +7,7 @@ Building a basic recipes site
 - CSS
 
 # Objective
-The objective of this project is to use HTML to learn:
+The objective of this project is to learn:
 - [x] How to use unordered and ordered lists
 - [x] How to create links to pages on other websites on the internet (absolute links)
 - [x] How to create links to other pages on your own websites (relative links)
