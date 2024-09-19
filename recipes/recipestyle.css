@@ -10,11 +10,14 @@ h1 {
     margin: 1em;
 }
 
-.para-home {
+h2 {
     text-align: center;
+    margin: 1em;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
 }
 
-.img-home {
+img {
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -22,7 +25,23 @@ h1 {
     width: 50%
 }
 
-.button-container {
+p {
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.ingredients {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.instructions {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.home-button {
     text-align: center;
     display: block;
     padding: 8px;
